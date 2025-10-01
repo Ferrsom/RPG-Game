@@ -11,6 +11,4 @@ Beim "Out of Bounds" stürzt das Spiel ab.
 
 CONTROLS:
 
-Bewegung: WASD
-Interaktion: E
-Dialog schließen: Q
+Bewegung: WASD | Interaktion: E | Dialog schließen: Q
