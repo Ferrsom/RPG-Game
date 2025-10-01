@@ -1,5 +1,5 @@
 Kleines Projekt, das im Rahmen einer Entwicklerausbildung an der GPB-Schule gestartet wurde. Befindet sich noch in der Entwicklung.
-Es handelt sich um ein kleines klassisches Rollenspiel. Code-Ergänzungen durch KI-Tools sind als solche gekennzeichnet.
+Es handelt sich um ein kleines klassisches RPG Spiel. Code-Ergänzungen durch KI-Tools sind als solche gekennzeichnet.
 
 INFO:
 
