@@ -23,11 +23,7 @@ The game currently crashes when moving out of bounds.
 
 🎮 Controls
 
-Movement: WASD
-
-Interact: E
-
-Close dialog: Q
+Movement: WASD | Interact: E | Close dialog: Q
 
 -GERMAN-
 
