@@ -3,7 +3,7 @@
 This is a small project started as part of a developer training program at the GPB school.
 It is a simple, classic-style RPG. Code additions made by AI tools are marked accordingly.
 
-📌 Info
+INFO:
 
 The code still contains some debugging/testing statements (System.out.println).
 
@@ -21,7 +21,7 @@ The Skeleton class should be renamed to Orc.
 
 The game currently crashes when moving out of bounds.
 
-🎮 Controls
+CONTROLS:
 
 Movement: WASD | Interact: E | Close dialog: Q
 
